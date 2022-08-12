@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/umang-dalvadi-15425b205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umang dalvadi" height="30" width="40" /></a>
 <a href="https://instagram.com/umang_dalvadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umang_dalvadi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/umangdalvadi8?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@umangdalvadi8" height="30" width="40" /></a>
-<a href="https://discord.gg/umang-dalvadi#6505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6505" height="30" width="40" /></a>
+<a href="https://discord.gg/umang dalvadi#6505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6505" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
