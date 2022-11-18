@@ -5,7 +5,7 @@
 
 [![@umang_dalvadi's Holopin board](https://holopin.me/umang_dalvadi)](https://holopin.io/@umang_dalvadi)
 
-<h3 align="center">I am passionate about Cybersecurity and AI/ML</h3>
+<h3 align="center">Passionate about Cybersecurity and AI/ML</h3>
 
 
 
