@@ -54,13 +54,15 @@
 
 
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umangdalvadi&show_icons=true&locale=en&layout=compact" alt="umangdalvadi" /></p>
+<<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umangdalvadi&show_icons=true&locale=en&layout=compact" alt="umangdalvadi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umangdalvadi&show_icons=true&locale=en" alt="umangdalvadi" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umangdalvadi&show_icons=true&locale=en" alt="umangdalvadi" /></p>
 -->
- 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmangDalvadi&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmangDalvadi&layout=compact)](https://github.com/UmangDalvadi/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=UmangDalvadi&show_icons=true&theme=radical" alt="umangdalvadi" /></p>
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmangDalvadi&layout=compact)](https://github.com/UmangDalvadi/github-readme-stats) -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umangdalvadi&" alt="umangdalvadi" /></p>
 
