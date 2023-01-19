@@ -54,7 +54,8 @@
 
 
 
-<<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umangdalvadi&show_icons=true&locale=en&layout=compact" alt="umangdalvadi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umangdalvadi&show_icons=true&locale=en&layout=compact" alt="umangdalvadi" /></p>
+ 
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umangdalvadi&show_icons=true&locale=en" alt="umangdalvadi" /></p>
 -->
