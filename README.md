@@ -13,9 +13,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umangdalvadi" alt="umangdalvadi" /></a> </p>
  -->
- <img align="right" alt="Cracking" width="200" src="https://seclab.ge/uploads/images/2021/09/img_614b180b558ee2-09912920-36304010.gif">
 <p align="left"> <a href="https://twitter.com/umang_dalvadi" target="blank"><img src="https://img.shields.io/twitter/follow/umang_dalvadi?logo=twitter&style=for-the-badge" alt="umang_dalvadi" /></a> </p>
 
+ <img align="right" alt="Cracking" width="200" src="https://seclab.ge/uploads/images/2021/09/img_614b180b558ee2-09912920-36304010.gif">
 
 
 - 🌱 **python || Frontend Development**
