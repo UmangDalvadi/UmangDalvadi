@@ -24,6 +24,12 @@
 
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://twitter.com/umang_dalvadi"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="40px" height="40px"></a> 
+    <a href="https://github.com/UmangDalvadi"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="40px" height="40px"></a>
+<!--     <a href="https://www.facebook.com/miten.gajjar.9"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a>  -->
+    <a href="https://www.linkedin.com/in/umang-dalvadi-15425b205/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="40px" height="40px"></a>
+</p>
 <!-- <p align="left">
 <a href="https://twitter.com/umang_dalvadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umang_dalvadi" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/umang-dalvadi-15425b205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umang dalvadi" height="30" width="40" /></a>
