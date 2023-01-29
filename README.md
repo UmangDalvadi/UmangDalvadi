@@ -112,5 +112,5 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umangdalvadi&" alt="umangdalvadi" /></p>
  -->
 <!-- dark strike state -->
-<p><br> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UmangDalvadi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="UmangDalvadi" height="192px"/></p>
+<p><<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UmangDalvadi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="UmangDalvadi" height="192px"/></p>
 
