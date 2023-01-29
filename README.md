@@ -9,7 +9,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umangdalvadi&label=Stalkers spotted&color=0e75b6&style=flat" alt="umangdalvadi" /> </p>
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=umangdalvadi&label=Stalkers spotted&color=0e75b6&style=flat" alt="umangdalvadi" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umangdalvadi" alt="umangdalvadi" /></a> </p>
  -->
@@ -18,7 +18,7 @@
  <img align="right" alt="Cracking" width="200" src="https://seclab.ge/uploads/images/2021/09/img_614b180b558ee2-09912920-36304010.gif">
 
 
-- 🌱 **python || Frontend Development**
+- 🌱 **python || Devloper || Cybersecurity enthusiast**
 
 - 📫 **umangdalvadi8@gmail.com**
 
@@ -100,23 +100,14 @@
  -->
 <!-- dark top lang state -->
 <p><br> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmangDalvadi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="UmangDalvadi" height="192px"/></p>
-
-
-
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umangdalvadi&show_icons=true&locale=en" alt="umangdalvadi" /></p>
 -->
-
 <!-- dark grade state -->
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=UmangDalvadi&show_icons=true&theme=radical" alt="umangdalvadi" /></p>
  -->
-
 <!-- full dark grade state -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=UmangDalvadi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="umangdalvadi" /></p>
-
-
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmangDalvadi&layout=compact)](https://github.com/UmangDalvadi/github-readme-stats) -->
-
 <!-- white strike state -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umangdalvadi&" alt="umangdalvadi" /></p>
  -->
