@@ -33,7 +33,7 @@
     <a href="https://github.com/UmangDalvadi"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="40px" height="40px"></a>
 <!--     <a href="https://www.facebook.com/miten.gajjar.9"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a>  -->
     <a href="https://www.linkedin.com/in/umang-dalvadi-15425b205/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="40px" height="40px"></a>
-        <a href="https://umangdalvadi.github.io/My-Portfolio/"><img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png" width="40px" height="40px"></a>
+        <a href="umangdalvadi.github.io"><img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png" width="40px" height="40px"></a>
 
 </p>
 <!-- <p align="left">
