@@ -99,14 +99,14 @@
 <!-- <p><br> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=UmangDalvadi&langs_count=10&show_icons=true&locale=en&layout=compact" alt="UmangDalvadi" height="192px"/></p>
  -->
 <!-- dark top lang state -->
-<p><br> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmangDalvadi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="UmangDalvadi" height="192px"/></p>
+<p><br> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmangDalvadi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="UmangDalvadi" height="192px"/><br>
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umangdalvadi&show_icons=true&locale=en" alt="umangdalvadi" /></p>
 -->
 <!-- dark grade state -->
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=UmangDalvadi&show_icons=true&theme=radical" alt="umangdalvadi" /></p>
  -->
 <!-- full dark grade state -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=UmangDalvadi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="umangdalvadi" /><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=UmangDalvadi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="umangdalvadi" /><br>
 <!-- dark strike state -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UmangDalvadi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="UmangDalvadi" height="192px"/></p>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmangDalvadi&layout=compact)](https://github.com/UmangDalvadi/github-readme-stats) -->
