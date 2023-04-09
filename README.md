@@ -4,9 +4,10 @@
 <!-- <h1 align="center">Hi 👋, I'm Umang Dalvadi! </h1>
   -->
  
+
  <h1 align="center" >
   <a href="https://github.com/UmangDalvadi">
-    < Umang Dalvadi /> </a>
+   < Umang Dalvadi /> </a>
 </h1>
 
 <p align="center">
@@ -21,7 +22,9 @@
 <!-- profile view small -->
 <!-- <p align="left" > <img src="https://komarev.com/ghpvc/?username=umangdalvadi&label=Stalkers spotted&color=0e75b6&style=flat" alt="umangdalvadi" /> </p> -->
 <!-- profile view large -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=UmangDalvadi&label=Stalkers+spotted&color=blue&style=plastic&style=for-the-badge" alt="saloniankita"/> </p>
+<p align="center"> 
+<!-- <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="200"> -->
+    <img src="https://komarev.com/ghpvc/?username=UmangDalvadi&label=Stalkers+spotted&color=blue&style=plastic&style=for-the-badge" alt="saloniankita"/> </p>
 
 <hr>
 
