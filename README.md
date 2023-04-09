@@ -130,7 +130,7 @@
      -->
 <br>
     
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=UmangDalvadi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="umangdalvadi" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UmangDalvadi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="UmangDalvadi" height="192px"/> |
+| <img  src="https://github-readme-stats.vercel.app/api?username=UmangDalvadi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="umangdalvadi" /> <img  src="https://github-readme-streak-stats.herokuapp.com/?user=UmangDalvadi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="UmangDalvadi" /> |
 | -- |
     
 | <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmangDalvadi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="UmangDalvadi" width="292px"/> <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="150"> |
