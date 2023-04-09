@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/d4902b57b5e2549993dfc819375943915f4a4bd1c2b3718f894547e1910c3e2e/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f62616e6e65722d62672e676966)
+<!-- ![MasterHead](https://camo.githubusercontent.com/d4902b57b5e2549993dfc819375943915f4a4bd1c2b3718f894547e1910c3e2e/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f62616e6e65722d62672e676966) -->
 
     
 <h1 align="center">Hi 👋, I'm Umang Dalvadi! 🇮🇳</h1>
@@ -45,8 +45,7 @@
 </p> -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-
-# Skills? <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+# Language and Tools? <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 <div align="center">
 
 <!--  <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">  --> 
@@ -82,7 +81,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) 
 <div/>
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <br>
 <!-- <p align="left">
 <h4 align="left">Programming Languages:</h4>
@@ -108,16 +107,23 @@
 <!-- <p><br> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=UmangDalvadi&langs_count=10&show_icons=true&locale=en&layout=compact" alt="UmangDalvadi" height="192px"/></p>
  -->
 <!-- dark top lang state -->
-<p><br> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmangDalvadi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="UmangDalvadi" height="192px"/><br><br>
+<!-- <p><br> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmangDalvadi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="UmangDalvadi" width="492px"/><br><br> -->
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umangdalvadi&show_icons=true&locale=en" alt="umangdalvadi" /></p>
 -->
 <!-- dark grade state -->
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=UmangDalvadi&show_icons=true&theme=radical" alt="umangdalvadi" /></p>
  -->
 <!-- full dark grade state -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=UmangDalvadi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="umangdalvadi" /><br>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=UmangDalvadi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="umangdalvadi" /><br>
+     -->
+    
+| ![Umang Dalvadi github stats](https://github-readme-stats.vercel.app/api?username=UmangDalvadi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117) | ![Umang Dalvadi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UmangDalvadi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0) |
+| -- | -- |
+    
+| ![Umang Dalvadi language count](https://github-readme-stats.vercel.app/api/top-langs/?username=UmangDalvadi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117) |
+|--|
 <!-- dark strike state -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UmangDalvadi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="UmangDalvadi" height="192px"/></p>
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UmangDalvadi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="UmangDalvadi" height="192px"/></p> -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmangDalvadi&layout=compact)](https://github.com/UmangDalvadi/github-readme-stats) -->
 <!-- white strike state -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umangdalvadi&" alt="umangdalvadi" /></p>
