@@ -1,23 +1,35 @@
 <!-- ![MasterHead](https://camo.githubusercontent.com/d4902b57b5e2549993dfc819375943915f4a4bd1c2b3718f894547e1910c3e2e/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f62616e6e65722d62672e676966) -->
 
     
-<h1 align="center">Hi 👋, I'm Umang Dalvadi! 🇮🇳</h1>
+<!-- <h1 align="center">Hi 👋, I'm Umang Dalvadi! </h1>
+  -->
+ 
+ <h1 align="center" >
+  <a href="https://github.com/UmangDalvadi">
+    < Umang Dalvadi /> </a>
+</h1>
 
-[![@umang_dalvadi's Holopin board](https://holopin.me/umang_dalvadi)](https://holopin.io/@umang_dalvadi)
+<p align="center">
+<a href="https://github.com/UmangDalvadi">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Full-stack+Web+Developer;Cyber+security+Enthusiasts;Enjoy+learning+Algorithms;Building+Something+Creative" /></a>
+</p>
 
-<h3 align="center">Passionate about Cybersecurity and AI/ML</h3>
+<!-- [![@umang_dalvadi's Holopin board](https://holopin.me/umang_dalvadi)](https://holopin.io/@umang_dalvadi) -->
+
 
 
 <!-- profile view small -->
 <!-- <p align="left" > <img src="https://komarev.com/ghpvc/?username=umangdalvadi&label=Stalkers spotted&color=0e75b6&style=flat" alt="umangdalvadi" /> </p> -->
 <!-- profile view large -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=UmangDalvadi&label=Stalkers+spotted&color=blue&style=plastic&style=for-the-badge" alt="saloniankita"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=UmangDalvadi&label=Stalkers+spotted&color=blue&style=plastic&style=for-the-badge" alt="saloniankita"/> </p>
+
+<hr>
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umangdalvadi" alt="umangdalvadi" /></a> </p>
  -->
-<p align="left"> <a href="https://twitter.com/umang_dalvadi" target="blank"><img src="https://img.shields.io/twitter/follow/umang_dalvadi?logo=twitter&style=for-the-badge" alt="umang_dalvadi" /></a> </p>
-
+<!-- <p align="left"> <a href="https://twitter.com/umang_dalvadi" target="blank"><img src="https://img.shields.io/twitter/follow/umang_dalvadi?logo=twitter&style=for-the-badge" alt="umang_dalvadi" /></a> </p>
+ -->
  <img align="right" alt="Cracking" width="200" src="https://seclab.ge/uploads/images/2021/09/img_614b180b558ee2-09912920-36304010.gif">
 
 
