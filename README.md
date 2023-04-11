@@ -24,23 +24,26 @@
 <!-- profile view large -->
 <p align="center"> 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="200"> -->
-    <img src="https://komarev.com/ghpvc/?username=UmangDalvadi&label=Stalkers+spotted&color=blue&style=plastic&style=for-the-badge" alt="saloniankita"/> </p>
+    <img src="https://komarev.com/ghpvc/?username=UmangDalvadi&label=Stalkers+spotted&color=blue&style=plastic&style=for-the-badge" alt="UmangDalvadi"/> </p>
 
 <hr>
+
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="400">
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umangdalvadi" alt="umangdalvadi" /></a> </p>
  -->
 <!-- <p align="left"> <a href="https://twitter.com/umang_dalvadi" target="blank"><img src="https://img.shields.io/twitter/follow/umang_dalvadi?logo=twitter&style=for-the-badge" alt="umang_dalvadi" /></a> </p>
  -->
- <img align="right" alt="Cracking" width="200" src="https://seclab.ge/uploads/images/2021/09/img_614b180b558ee2-09912920-36304010.gif">
+<!--  <img align="right" alt="Cracking" width="200" src="https://seclab.ge/uploads/images/2021/09/img_614b180b558ee2-09912920-36304010.gif"> -->
 
+<hr>
 
 - 🌱 **python || Devloper || Cybersecurity enthusiast**
 
 - 📫 **umangdalvadi8@gmail.com**
 
-
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
