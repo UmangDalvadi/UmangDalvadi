@@ -152,7 +152,5 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umangdalvadi&" alt="umangdalvadi" /></p>
  -->
  
- ## snake 
-https://github.com/UmangDalvadi/UmangDalvadi/blob/output/github-contribution-grid-snake.gif
 
 
