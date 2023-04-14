@@ -3,7 +3,8 @@
     
 <!-- <h1 align="center">Hi 👋, I'm Umang Dalvadi! </h1>
   -->
- 
+ [![@umang_dalvadi's Holopin board](https://holopin.me/umang_dalvadi)](https://holopin.io/@umang_dalvadi)
+
 
  <h1 align="center" >
   <a href="https://github.com/UmangDalvadi">
@@ -15,7 +16,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Full-stack+Web+Developer;Cyber+security+Enthusiasts;Enjoy+learning+Algorithms;Building+Something+Creative" /></a>
 </p>
 
-<!-- [![@umang_dalvadi's Holopin board](https://holopin.me/umang_dalvadi)](https://holopin.io/@umang_dalvadi) -->
 
 
 
