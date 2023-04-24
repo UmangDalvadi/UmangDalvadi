@@ -153,9 +153,9 @@
  -->
 
     
- <h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" width="60" />
+<!--  <h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" width="60" />
 Snake eating my contributions!<img src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif" width="60" />
-</h2>
+</h2> -->
  
 ![snake gif](https://github.com/UmangDalvadi/UmangDalvadi/blob/output/github-contribution-grid-snake.gif)
 
