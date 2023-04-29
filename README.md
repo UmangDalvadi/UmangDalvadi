@@ -3,14 +3,17 @@
     
 <!-- <h1 align="center">Hi 👋, I'm Umang Dalvadi! </h1>
   -->
+  
+<!--   Holopin board -->
  [![@umang_dalvadi's Holopin board](https://holopin.me/umang_dalvadi)](https://holopin.io/@umang_dalvadi)
 
-
+<!-- Name -->
  <h1 align="center" >
   <a href="https://github.com/UmangDalvadi">
    < Umang Dalvadi /> </a>
 </h1>
 
+<!-- Display -->
 <p align="center">
 <a href="https://github.com/UmangDalvadi">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Full-stack+Web+Developer;Cyber+security+Enthusiasts;Enjoy+learning+Algorithms;Building+Something+Creative" /></a>
@@ -21,13 +24,13 @@
 
 <!-- profile view small -->
 <!-- <p align="left" > <img src="https://komarev.com/ghpvc/?username=umangdalvadi&label=Stalkers spotted&color=0e75b6&style=flat" alt="umangdalvadi" /> </p> -->
+
 <!-- profile view large -->
 <p align="center"> 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="200"> -->
 <img src="https://komarev.com/ghpvc/?username=UmangDalvadi&label=Stalkers+spotted&color=blue&style=plastic&style=for-the-badge" alt="UmangDalvadi"/> </p>
 
-
-
+<!-- Gif image -->
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="400">
 
 
@@ -37,6 +40,7 @@
  -->
 <!--  <img align="right" alt="Cracking" width="200" src="https://seclab.ge/uploads/images/2021/09/img_614b180b558ee2-09912920-36304010.gif"> -->
 
+<!-- Details -->
 <hr>
 
 - 🌱 **python || Devloper || Cybersecurity enthusiast**
@@ -45,6 +49,7 @@
 
 <hr>
 
+<!-- Connect socials -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/umang_dalvadi"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="40px" height="40px"></a> 
@@ -52,8 +57,8 @@
 <!--     <a href="https://www.facebook.com/miten.gajjar.9"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a>  -->
     <a href="https://www.linkedin.com/in/umang-dalvadi-15425b205/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="40px" height="40px"></a>
         <a href="https://umangdalvadi.github.io/"><img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png" width="40px" height="40px"></a>
-
 </p>
+
 <!-- <p align="left">
 <a href="https://twitter.com/umang_dalvadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umang_dalvadi" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/umang-dalvadi-15425b205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umang dalvadi" height="30" width="40" /></a>
@@ -61,6 +66,7 @@
 <a href="https://www.hackerrank.com/umangdalvadi8?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@umangdalvadi8" height="30" width="40" /></a>
 <a href="https://discord.gg/umang dalvadi#6505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6505" height="30" width="40" /></a>
 </p> -->
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # Language and Tools? <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
@@ -101,6 +107,7 @@
 <div/>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <br>
+    
 <!-- <p align="left">
 <h4 align="left">Programming Languages:</h4>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -134,6 +141,7 @@
 <!-- full dark grade state -->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=UmangDalvadi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="umangdalvadi" /><br>
      -->
+    
 <br>
     
 | <img  src="https://github-readme-stats.vercel.app/api?username=UmangDalvadi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="umangdalvadi" width="400px"/> <img  src="https://github-readme-streak-stats.herokuapp.com/?user=UmangDalvadi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="UmangDalvadi" width="400px"/> |
