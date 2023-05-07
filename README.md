@@ -31,7 +31,7 @@
 <img src="https://komarev.com/ghpvc/?username=UmangDalvadi&label=Stalkers+spotted&color=blue&style=plastic&style=for-the-badge" alt="UmangDalvadi"/> 
 <br>
     <br>
-<img src="https://count.getloli.com/get/@UmangDalvadi.github.readme" width="400">
+<img src="https://count.getloli.com/get/@UmangDalvadi.github.readme" width="350">
 </p>
 
 
@@ -182,6 +182,6 @@ Snake eating my contributions!<img src="https://user-images.githubusercontent.co
    
     
 
-![](https://count.getloli.com/get/@UmangDalvadi.github.readme)
+<!-- ![](https://count.getloli.com/get/@UmangDalvadi.github.readme) -->
 
 
