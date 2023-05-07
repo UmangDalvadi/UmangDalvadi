@@ -30,6 +30,9 @@
 <!-- <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="200"> -->
 <img src="https://komarev.com/ghpvc/?username=UmangDalvadi&label=Stalkers+spotted&color=blue&style=plastic&style=for-the-badge" alt="UmangDalvadi"/> </p>
 
+![](https://count.getloli.com/get/@UmangDalvadi.github.readme)
+
+
 <!-- Gif image -->
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="400">
 
@@ -166,7 +169,9 @@ Snake eating my contributions!<img src="https://user-images.githubusercontent.co
 </h2> -->
  
 ![snake gif](https://github.com/UmangDalvadi/UmangDalvadi/blob/output/github-contribution-grid-snake.gif)
+   
     
+
 ![](https://count.getloli.com/get/@UmangDalvadi.github.readme)
 
 
