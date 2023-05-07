@@ -166,4 +166,7 @@ Snake eating my contributions!<img src="https://user-images.githubusercontent.co
 </h2> -->
  
 ![snake gif](https://github.com/UmangDalvadi/UmangDalvadi/blob/output/github-contribution-grid-snake.gif)
+    
+![](https://count.getloli.com/get/@UmangDalvadi.github.readme)
+
 
