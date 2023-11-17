@@ -40,8 +40,11 @@
 
 <!-- Details -->
 <hr>
+
 - 🌱 **python || Devloper || Cybersecurity enthusiast**
+
 - 📫 **umangdalvadi8@gmail.com**
+
 <hr>
 </div>
 
