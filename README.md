@@ -1,14 +1,9 @@
 <!-- ![MasterHead](https://camo.githubusercontent.com/d4902b57b5e2549993dfc819375943915f4a4bd1c2b3718f894547e1910c3e2e/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f62616e6e65722d62672e676966) -->
-
-    
-<!-- <h1 align="center">Hi 👋, I'm Umang Dalvadi! </h1>
-  -->
-  
-<!--   Holopin board -->
- [![@umang_dalvadi's Holopin board](https://holopin.me/umang_dalvadi)](https://holopin.io/@umang_dalvadi)
+   
+<!-- <h1 align="center">Hi 👋, I'm Umang Dalvadi! </h1> -->
 
 <!-- Name -->
- <h1 align="center" >
+<h1 align="center" >
   <a href="https://github.com/UmangDalvadi">
    < Umang Dalvadi /> </a>
 </h1>
@@ -18,9 +13,6 @@
 <a href="https://github.com/UmangDalvadi">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Full-stack+Web+Developer;Cyber+security+Enthusiasts;Enjoy+learning+Algorithms;Building+Something+Creative" /></a>
 </p>
-
-
-
 
 <!-- profile view small -->
 <!-- <p align="left" > <img src="https://komarev.com/ghpvc/?username=umangdalvadi&label=Stalkers spotted&color=0e75b6&style=flat" alt="umangdalvadi" /> </p> -->
@@ -34,16 +26,11 @@
 <img src="https://count.getloli.com/get/@UmangDalvadi.github.readme" width="350">
 </p>
 
-
 <!--   ![](https://count.getloli.com/get/@UmangDalvadi.github.readme)  -->
   
-
-
-
 <!-- Gif image -->
 <div>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="400">
-
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umangdalvadi" alt="umangdalvadi" /></a> </p>
  -->
@@ -53,21 +40,17 @@
 
 <!-- Details -->
 <hr>
-
 - 🌱 **python || Devloper || Cybersecurity enthusiast**
-
 - 📫 **umangdalvadi8@gmail.com**
-
 <hr>
 </div>
-
 
 <!-- Connect socials -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/umang_dalvadi"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="40px" height="40px"></a> 
     <a href="https://github.com/UmangDalvadi"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="40px" height="40px"></a>
-<!--     <a href="https://www.facebook.com/miten.gajjar.9"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a>  -->
+<!--<a href="https://www.facebook.com/miten.gajjar.9"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a>-->
     <a href="https://www.linkedin.com/in/umang-dalvadi-15425b205/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="40px" height="40px"></a>
         <a href="https://umangdalvadi.github.io/"><img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png" width="40px" height="40px"></a>
 </p>
@@ -140,7 +123,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  -->
 <!-- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>  -->
 
-
 <!-- white top lang state -->
 <!-- <p><br> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=UmangDalvadi&langs_count=10&show_icons=true&locale=en&layout=compact" alt="UmangDalvadi" height="192px"/></p>
  -->
@@ -162,26 +144,22 @@
     
 | <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmangDalvadi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="UmangDalvadi" width="292px"/> <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="150"> |
 | -- |
-
-    
+   
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1920">
 
 <!-- dark strike state -->
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UmangDalvadi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="UmangDalvadi" height="192px"/></p> -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmangDalvadi&layout=compact)](https://github.com/UmangDalvadi/github-readme-stats) -->
 <!-- white strike state -->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umangdalvadi&" alt="umangdalvadi" /></p>
- -->
-
-    
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umangdalvadi&" alt="umangdalvadi" /></p>-->
+   
 <!--  <h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" width="60" />
 Snake eating my contributions!<img src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif" width="60" />
 </h2> -->
  
 ![snake gif](https://github.com/UmangDalvadi/UmangDalvadi/blob/output/github-contribution-grid-snake.gif)
    
-    
-
 <!-- ![](https://count.getloli.com/get/@UmangDalvadi.github.readme) -->
 
-
+<!--   Holopin board -->
+ [![@umang_dalvadi's Holopin board](https://holopin.me/umang_dalvadi)](https://holopin.io/@umang_dalvadi)
