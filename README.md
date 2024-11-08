@@ -160,8 +160,11 @@
 Snake eating my contributions!<img src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif" width="60" />
 </h2> -->
  
-![snake gif](https://github.com/UmangDalvadi/UmangDalvadi/blob/output/github-contribution-grid-snake.gif)
-   
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UmangDalvadi/UmangDalvadi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UmangDalvadi/UmangDalvadi/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/UmangDalvadi/UmangDalvadi/output/github-snake.svg" />
+</picture>   
 <!-- ![](https://count.getloli.com/get/@UmangDalvadi.github.readme) -->
 
 <!--   Holopin board -->
