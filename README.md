@@ -11,7 +11,7 @@
 <!-- Display -->
 <p align="center">
 <a href="https://github.com/UmangDalvadi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Full-stack+Web+Developer;Cyber+security+Enthusiasts;Enjoy+learning+Algorithms;Building+Something+Creative" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Full-stack+Developer;Cyber+security+Enthusiasts;Enjoy+learning+Algorithms;Building+Something+Creative" /></a>
 </p>
 
 <!-- profile view small -->
@@ -41,7 +41,7 @@
 <!-- Details -->
 <hr>
 
-- 🌱 **python || Devloper || Cybersecurity enthusiast**
+- 🌱 **Developer || Web Sockets || AI integration || DevOps || Cybersecurity enthusiast**
 
 - 📫 **umangdalvadi8@gmail.com**
 
@@ -55,7 +55,7 @@
     <a href="https://github.com/UmangDalvadi"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="40px" height="40px"></a>
 <!--<a href="https://www.facebook.com/miten.gajjar.9"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a>-->
     <a href="https://www.linkedin.com/in/umang-dalvadi-15425b205/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="40px" height="40px"></a>
-        <a href="https://umangdalvadi.github.io/"><img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png" width="40px" height="40px"></a>
+        <a href="https://type.link/umangdalvadi8"><img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png" width="40px" height="40px"></a>
 </p>
 
 <!-- <p align="left">
